@@ -1,4 +1,4 @@
-https://www.codeship.io/projects/35abfad0-2c5c-0131-b3fd-2607a98ce044/status
+![codeship](https://www.codeship.io/projects/35abfad0-2c5c-0131-b3fd-2607a98ce044/status)
 
 # Gekko
 
