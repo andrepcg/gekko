@@ -12,6 +12,13 @@ var util = {
     var path = require('path');
     var configFile = path.resolve(util.getArgument('config') || 'config.js');
     _config = require(configFile);
+	var interval = util.getArgument('interval');
+	var debug = util.getArgument('debug');
+	if(interval > 0)
+		_config.EMA.interval = interval;
+	if(debug == "on")
+		_config.debug = (debug == "on") ? true : false;
+		
     return _config;
   },
   // overwrite the whole config
