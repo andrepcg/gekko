@@ -1,3 +1,5 @@
+https://www.codeship.io/projects/35abfad0-2c5c-0131-b3fd-2607a98ce044/status
+
 # Gekko
 
 *The point is ladies and gentlemen that greed, for lack of a better word, is good.*
