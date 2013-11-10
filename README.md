@@ -1,4 +1,4 @@
-[ ![Codeship Status for andrepcg/gekko](https://www.codeship.io/projects/35abfad0-2c5c-0131-b3fd-2607a98ce044/status?branch=master)](https://www.codeship.io/projects/9273)
+[![Codeship Status for andrepcg/gekko](https://www.codeship.io/projects/35abfad0-2c5c-0131-b3fd-2607a98ce044/status?branch=master)](https://www.codeship.io/projects/9273)
 
 # Gekko
 
