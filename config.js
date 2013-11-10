@@ -24,7 +24,7 @@ config.EMA = {
   sellTreshold: -0.25,
   buyTreshold: 0.25
 };
-
+ 
 // Monitor the live market
 config.normal = {
   enabled: true,
